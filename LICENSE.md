@@ -1,4 +1,4 @@
-
+Enhance Fantastical for macOS with Fantastical for macOS vip Addon - dark mode and custom shortcuts, the #1 addon. Includes dark mode and custom shortcuts for a smoother
 
 
 
